@@ -39,6 +39,7 @@ class WireController extends BaseController
 	 */
 	public $insertable_fields = [
 		'text',
+		'color',
 		'number',
 		'image',
 		'file',
